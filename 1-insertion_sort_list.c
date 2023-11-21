@@ -1,5 +1,4 @@
 #include "sort.h"
-
 /**
  * swap_nodes - Swap two nodes
  * @h: A pointer to the head
